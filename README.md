@@ -1,7 +1,6 @@
-# SQL for Data Analysis 📈
-## Live Course
+# SQL for Data Analysis Live
 
-Welcome to SQL for Data Analysis, an O'Reilly live online course. This course teaches you intermediate SQL querying to drive data-driven insights, and I'm proud to be your instructor for this training. 
+Welcome to _SQL for Data Analysis_, an O'Reilly live online course. This course teaches you intermediate SQL querying to drive data-driven insights, and I'm proud to be your instructor for this training. 
 
 In this repository, you'll find:
 - A .sql file to compile the database for this course, [learning_platform.sql](learning_platform.sql)
