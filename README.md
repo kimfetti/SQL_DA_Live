@@ -9,4 +9,5 @@ In this repository, you'll find:
 Thank you for joining me for this course, and I welcome your feedback ([LinkedIn](https://www.linkedin.com/in/kimberlyfessel/), [YouTube](https://www.youtube.com/@KimberlyFessel)). 
 
 Wishing you all the best on your SQL journey! 👍
+- Kimberly Fessel
 
